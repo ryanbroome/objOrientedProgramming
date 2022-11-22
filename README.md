@@ -1,0 +1,2 @@
+<h3>Part Four</h3>
+<p><i>The logic for Part Four I had a few pieces backwards, but eventually had to take a peak at the solution to get a reminder of "instanceof" and look that up on MDN to get some more info on how it works to have an easy way to tell if an object instantiated from a sub class extends from a super class. Overall I feel like I grasp the "cookie cutter" and super - sub class aspect, as well as adding methods to the __proto__  so you only make one copy of a method and not 10,000 or however many objects get instantiated with the classes and sub-classes.</i></p>
